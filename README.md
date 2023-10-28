@@ -2,7 +2,7 @@
 This is a simple drawing program using HTML, CSS, and JavaScript, where you can draw and erase by clicking the "Clear" button. Additionally, by right-clicking on the canvas, you have the option to save or copy your drawing.
 
 ## How to Use
-- To test the program, simply click [here](https://emanuellesalesg.github.io/board/)
+- To test the program, simply click [here](https://emanuellesalesg.github.io/board/).
 
 1. Use your mouse to draw on the canvas.
 2. Click the "Clear" button to erase the drawing.
